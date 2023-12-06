@@ -4,3 +4,4 @@
 <p>Third App- I Had Included Bootstrap In My Project</p>
 <p>The Todo Project Will Just Contains The UI Of The Todo App Just Following a components Structure</p>
 <p>Here i had Made a Simple UI For A Clock</p>
+<p>Project Todo Item Is A Project Where you can Able To Understand How To Pass Props and Data From Parent To Children Components</p>
